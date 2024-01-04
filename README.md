@@ -24,8 +24,3 @@ ATREUS combines the power of Next.js on the frontend with a robust Spring Boot b
 
 - **Styling:** Styled using Tailwind CSS for a sleek and modern design.
 
-## Getting Started
-
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-username/atreus-social-media.git
